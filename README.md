@@ -4,75 +4,75 @@ USACO-Training
 This is my code database for the problems I solved on USACO training website.
 
 =============
-Index:
-----.gitignore
-----ch1_1
---------beads.java
---------friday.java
---------gift1.java
---------ride.java
-----ch1_2
---------dualpal.java
---------milk2.java
---------namenum.java
---------palsquare.java
---------transform.java
-----ch1_3
---------barn1.java
---------calfflac.java
---------crypt1.java
---------milk.java
-----ch1_4
---------ariprog.java
---------clocks.java
---------milk3.java
---------packrec.java
-----ch1_5
---------checker.java
---------numtri.java
---------pprime.java
---------sprime.java
-----ch2_1
---------castle.java
---------frac1.java
---------hamming.java
---------holstein.java
---------sort3.java
-----ch2_2
---------lamps.java
---------preface.java
---------runround.java
---------subset.java
-----ch2_3
---------concom.java
---------money.java
---------nocows.java
---------prefix.java
---------zerosum.java
-----ch2_4
---------comehome.java
---------cowtour.java
---------fracdec.c
---------maze1.java
---------ttwo.java
-----ch3_1
---------agrinet.java
---------contact.cpp
---------contact.java
---------humble.java
---------inflate.java
---------rect1.java
---------stamps.java
-----ch3_2
---------butter.java
---------fact4.java
---------kimbits.java
---------kimbits_pass.java
---------msquare_pass.java
---------msquare_slow.java
---------ratios.cpp
---------spin.cpp
-----ch3_3
---------fence.java
---------shopping.cpp
-----ch3_4
+Index: <br />
+----.gitignore<br />
+----ch1_1<br />
+--------beads.java<br />
+--------friday.java<br />
+--------gift1.java<br />
+--------ride.java<br />
+----ch1_2<br />
+--------dualpal.java<br />
+--------milk2.java<br />
+--------namenum.java<br />
+--------palsquare.java<br />
+--------transform.java<br />
+----ch1_3<br />
+--------barn1.java<br />
+--------calfflac.java<br />
+--------crypt1.java<br />
+--------milk.java<br />
+----ch1_4<br />
+--------ariprog.java<br />
+--------clocks.java<br />
+--------milk3.java<br />
+--------packrec.java<br />
+----ch1_5<br />
+--------checker.java<br />
+--------numtri.java<br />
+--------pprime.java<br />
+--------sprime.java<br />
+----ch2_1<br />
+--------castle.java<br />
+--------frac1.java<br />
+--------hamming.java<br />
+--------holstein.java<br />
+--------sort3.java<br />
+----ch2_2<br />
+--------lamps.java<br />
+--------preface.java<br />
+--------runround.java<br />
+--------subset.java<br />
+----ch2_3<br />
+--------concom.java<br />
+--------money.java<br />
+--------nocows.java<br />
+--------prefix.java<br />
+--------zerosum.java<br />
+----ch2_4<br />
+--------comehome.java<br />
+--------cowtour.java<br />
+--------fracdec.c<br />
+--------maze1.java<br />
+--------ttwo.java<br />
+----ch3_1<br />
+--------agrinet.java<br />
+--------contact.cpp<br />
+--------contact.java<br />
+--------humble.java<br />
+--------inflate.java<br />
+--------rect1.java<br />
+--------stamps.java<br />
+----ch3_2<br />
+--------butter.java<br />
+--------fact4.java<br />
+--------kimbits.java<br />
+--------kimbits_pass.java<br />
+--------msquare_pass.java<br />
+--------msquare_slow.java<br />
+--------ratios.cpp<br />
+--------spin.cpp<br />
+----ch3_3<br />
+--------fence.java<br />
+--------shopping.cpp<br />
+----ch3_4<br />
