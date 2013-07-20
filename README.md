@@ -76,4 +76,6 @@ Index: <br />
 --------fence.java<br />
 --------shopping.cpp<br />
 --------camelot.java<br />
+--------range.java<br />
+--------game1.java<br />
 ----ch3_4<br />
