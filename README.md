@@ -81,3 +81,4 @@ Index: <br />
 ----ch3_4<br />
 --------
 --------heritage.java<br />
+--------fence9.java<br />
