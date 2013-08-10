@@ -85,9 +85,10 @@ Chapter 3<br />
 --------range.java<br />
 --------game1.java<br />
 ----ch3_4<br />
---------
+--------...<br />
 --------heritage.java<br />
 --------fence9.java<br />
+--------...<br />
 Chapter 4<br />
 ===============
 ----ch4_1<br />
