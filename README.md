@@ -6,6 +6,8 @@ This is my code database for the problems I solved on USACO training website.
 =============
 Index: <br />
 ----.gitignore<br />
+Chapter 1<br />
+===============
 ----ch1_1<br />
 --------beads.java<br />
 --------friday.java<br />
@@ -32,6 +34,8 @@ Index: <br />
 --------numtri.java<br />
 --------pprime.java<br />
 --------sprime.java<br />
+Chapter 2<br />
+===============
 ----ch2_1<br />
 --------castle.java<br />
 --------frac1.java<br />
@@ -55,6 +59,8 @@ Index: <br />
 --------fracdec.c<br />
 --------maze1.java<br />
 --------ttwo.java<br />
+Chapter 3<br />
+===============
 ----ch3_1<br />
 --------agrinet.java<br />
 --------contact.cpp<br />
@@ -82,3 +88,8 @@ Index: <br />
 --------
 --------heritage.java<br />
 --------fence9.java<br />
+Chapter 4<br />
+===============
+----ch4_1<br />
+--------nuggets.java<br />
+--------fence8.java<br />
